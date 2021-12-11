@@ -8,7 +8,7 @@
 </a>
 <br />
 
-### I am Henrie Friesen,
+### I am Henrie Friesen (he/him),
 - Passionate about using my knowledge and interest for ML/AI, cloud computing, robotics and cutting edge technology for projects that promote social good and combat pressing global issues such as climate change
 - A Computer Science Undergraduate Student at Carleton College in Northfield, MN
 - I'm currently looking for opportunities for this coming summer. I am a quick and eager learner, and am excited to apply my CS education to solve real-world problems.
