@@ -9,20 +9,19 @@
 <br />
 
 ### I am Henrie Friesen,
-- Interested in cutting edge technology such as ML/AI, cloud computing, and robotics
-- Passionate about learning how to use technology for social good and to combat pressing global issues such as climate change
+- Passionate about using my knowledge and interest for ML/AI, cloud computing, robotics and cutting edge technology for projects that promote social good and combat pressing global issues such as climate change
 - A Computer Science Undergraduate Student at Carleton College in Northfield, MN
 - I'm currently looking for opportunities for this coming summer. I am a quick and eager learner, and am excited to apply my CS education to solve real-world problems.
 
 ### Projects and Experience
 #### Carleton College
-The majority of my coding experience comes from my courses at Carleton, which includes topics in algorithms, data structures, mathematics of CS, statistics, and computer systems. Through these courses I have gained experience with:
+Through my courses at Carleton, I've gained experience with topics in algorithms, data structures, mathematics of CS, statistics, and computer systems. In them, I have coded and completed projects using:
 - Python
 - Java
 - C and x86-64 Assembly
 - R
 
-Some of my favorites projects have included
+Some of my favorite projects have included:
 - This [Frogger-Style game](https://github.com/friesenh/CS111FinalGame) created for my CS 111 final project (Python)
 - A program which finds the shortest sequence of "Wikipedia" articles between a source and destination page using graph traversals (Java)
 - A "code attack" project wherein we exploited vulnerable C programs using code-injection and return-oriented programming attack techniques (C, x86-64 Assembly, debugging with GDB)
