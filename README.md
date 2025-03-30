@@ -32,7 +32,7 @@ Through my courses, I gained experience with algorithms, data structures, mathem
 - R
 
 ### Projects
-#### Carleton Geothermal Full-Stack Application
+#### Carleton Geothermal Full-Stack Application ([check it out!](https://github.com/acdalal/geothermal)) 
 I worked on a 6-member team to create a full-stack web application to enable stakeholders to access Carleton's wealth of geothermal data. My responsibilities and achievements included:
 - Pioneering a data access pipeline to Carleton’s Geothermal Database with a team of 6 by using Python Django, PostgreSQL, and HTML/CSS to build a database API and graphical user interface
 - Strengthening solutions to frontend and backend design challenges by prototyping user interfaces in Figma
