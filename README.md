@@ -41,3 +41,6 @@ I worked on a 6-member team to create a full-stack web application to enable sta
 #### Scheme Interpreter using C
 - Developed a Scheme interpreter using C that passes 100% of assigned tests, including Donald Knuth’s ‘Man or Boy’ test
 - Ensured code accuracy and consistency in a pair-programming setting by making hundreds of programmatic diagram illustrations and in-depth documentation
+
+### What's Next?
+One of my favorite parts about development is continuously learning new skills and tools. I've been eager to create an app that would help me in the kitchen (I'm a big fan of cooking!), letting me not just save recipes, but to find new ones based on the ingredients I currently have in my fridge. So, as I've been refamiliarizing myself with Java, I decided to try to build that app by learning Spring Boot. You can check out my progress in the [whatscooking](https://github.com/friesenh/whatscooking) repo!
